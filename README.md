@@ -1,0 +1,2 @@
+# privicy-policy
+privicy policy
